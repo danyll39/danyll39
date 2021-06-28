@@ -1,6 +1,7 @@
 # Hi there I'm Ursala 👋
 
-![IMG_20210612_202155_318](https://user-images.githubusercontent.com/68096907/123707619-faf39380-d837-11eb-812c-2fa387e6a6ac.jpg)
+![urslogo](https://user-images.githubusercontent.com/68096907/123709299-d64ceb00-d83a-11eb-9323-adb02edcb7ad.png)
+
 
   
 ## 💥: I am Junior Software Developer who loves to learn and has a passon for problem solving! 
@@ -9,7 +10,7 @@
 
 ## 💥: Don't be afraid to reach out: ursaladanyll@gmail.com
 
-## 💥: * WSU stack education alumni *
+## 💥: *WSU stack education alumni*
 
 
 
