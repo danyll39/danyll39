@@ -1,15 +1,15 @@
-### Hi there I'm Ursala 👋
+# Hi there I'm Ursala 👋
 
 ![IMG_20210612_202155_318](https://user-images.githubusercontent.com/68096907/123707619-faf39380-d837-11eb-812c-2fa387e6a6ac.jpg)
 
   
-# 💥: I am Junior Software Developer who loves to learn and has a passon for problem solving! 
+## 💥: I am Junior Software Developer who loves to learn and has a passon for problem solving! 
 
-# 💥: I pretty good with Javascript, React and Node but hope to learn so much more!
+## 💥: I pretty good with Javascript, React and Node but hope to learn so much more!
 
-# 💥: Don't be afraid to reach out: ursaladanyll@gmail.com
+## 💥: Don't be afraid to reach out: ursaladanyll@gmail.com
 
-# 💥: * WSU stack education alumni *
+## 💥: * WSU stack education alumni *
 
 
 
