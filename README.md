@@ -1,4 +1,5 @@
-[URS-logo.zip](https://github.com/danyll39/danyll39/files/6729495/URS-logo.zip)
+![cover](https://user-images.githubusercontent.com/68096907/123710159-3db76a80-d83c-11eb-9ca2-f9d5663f04f8.png)
+
 
 # Hi there I'm Ursala 👋
 
