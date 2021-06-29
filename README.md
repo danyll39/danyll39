@@ -5,7 +5,7 @@
 
 
   
-## 💥: I am Junior Software Developer who loves to learn and has a passon for problem solving! 
+## 💥: I am Junior Software Developer who loves to learn and has a passion  for problem solving! 
 
 ## 💥: I pretty good with Javascript, React and Node but hope to learn so much more!
 
