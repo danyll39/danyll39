@@ -7,7 +7,7 @@
   
 ## 💥: I am Junior Software Developer who loves to learn and has a passion  for problem solving! 
 
-## 💥: I pretty good with Javascript, React and Node but hope to learn so much more!
+## 💥: I'm pretty good with Javascript, React and Node but hope to learn so much more!
 
 ## 💥: Don't be afraid to reach out: ursaladanyll@gmail.com
 
