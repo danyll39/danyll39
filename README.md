@@ -9,7 +9,7 @@
 
 ## 💥: I'm pretty good with Javascript, React and Node but hope to learn so much more!
 
-## 💥: Don't be afraid to reach out: ursaladanyll@gmail.com
+## 💥: Don't be afraid to reach out: ursalalindsey@gmail.com
 
 ## 💥: *WSU stack education alumni*
 
