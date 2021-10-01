@@ -13,6 +13,8 @@
 
 ## 💥: *WSU stack education alumni*
 
+## 💥: *Check out some of my projects at  http://ursalalindsey.com*
+
 
 
  
